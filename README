@@ -1,0 +1,5 @@
+Go to Model Retraining to get to the code to retrain the models.
+
+You must fix the paths, they are currently set to my personal files.
+The CSVs that are created with the model will run fine with this code. 
+They have to be split into different folders. One for pitch and one for intensity.
