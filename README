@@ -9,3 +9,5 @@ Min, Max, Mean, Standard Deviation, Z-Score, Duration, POS IDs
 The columns for the labels are Prominence, and Boundary.
 
 The RPT_2CSV folder is for prepping the data. If you wish you change what features the CSVs have to train the model with you can incorporate them there. If you're fine with the features currently used, feel free to ignore those files.
+
+The models in this repo are the most recent ones that the team trained.
